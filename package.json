@@ -50,7 +50,7 @@
     "graceful-fs": "^4.2.4",
     "jsen": "0.6.6",
     "jsforce": "^1.10.0",
-    "jsonwebtoken": "8.5.0",
+    "jsonwebtoken": "9.0.0",
     "mkdirp": "1.0.4",
     "sfdx-faye": "^1.0.9"
   },
@@ -82,8 +82,8 @@
     "nyc": "^15.1.0",
     "prettier": "^2.0.5",
     "pretty-quick": "^2.0.1",
-    "semantic-release": "^15.10.5",
-    "shelljs": "0.8.1",
+    "semantic-release": "^19.0.3",
+    "shelljs": "0.8.5",
     "sinon": "^9.0.2",
     "ts-node": "^8.10.2",
     "typescript": "^3.9.3"
