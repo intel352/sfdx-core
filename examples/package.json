@@ -17,14 +17,14 @@
     "@salesforce/core": "^1",
     "chalk": "^2.4.1",
     "inquirer": "^6.0.0",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "strip-ansi": "^4.0.0"
   },
   "devDependencies": {
     "@salesforce/ts-types": "^1",
     "@salesforce/dev-config": "^1.4.4",
     "@salesforce/ts-sinon": "^1",
-    "@types/lodash": "^4.14.104",
+    "@types/lodash": "^4.17.20",
     "@types/node": "^9.4.7",
     "@types/mocha": "^5.2.5",
     "chai": "^4.1.2",
